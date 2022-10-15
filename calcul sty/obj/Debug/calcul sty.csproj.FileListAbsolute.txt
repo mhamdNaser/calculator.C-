@@ -1,0 +1,22 @@
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.exe.config
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.exe
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.pdb
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.AssemblyReference.cache
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul_sty.Form1.resources
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul_sty.Properties.Resources.resources
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.GenerateResource.cache
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.CoreCompileInputs.cache
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.exe
+C:\Users\Naser\OneDrive\سطح المكتب\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.pdb
+D:\محمد\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.exe.config
+D:\محمد\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.exe
+D:\محمد\برمجة\calcul sty\calcul sty\bin\Debug\calcul sty.pdb
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.AssemblyReference.cache
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.SuggestedBindingRedirects.cache
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul_sty.Form1.resources
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul_sty.Properties.Resources.resources
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.GenerateResource.cache
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.csproj.CoreCompileInputs.cache
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.exe
+D:\محمد\برمجة\calcul sty\calcul sty\obj\Debug\calcul sty.pdb
